@@ -1,0 +1,10 @@
+{
+  "name": "Kaveri's Universe",
+  "short_name": "Kaveri ♥",
+  "description": "A little universe made with love, for Kaveri.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0d0718",
+  "theme_color": "#0d0718",
+  "icons": [{ "src": "/heart.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
